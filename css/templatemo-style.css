@@ -1032,6 +1032,17 @@ p {
   .navbar-brand {
     font-size: 1rem !important;
   }
+	
+  .navbar-toggler {
+    font-size: 0.6rem !important;
+    width: 30px;
+    height: 30px !important;
+  }
+  .navbar-toggler-icon {
+    width: 12px;
+    margin-top: -3px;
+    font-size: 0.6rem !important;
+  }
 
   .tm-hero-text-container {
     padding-bottom: 60px;
